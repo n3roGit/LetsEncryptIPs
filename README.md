@@ -54,3 +54,5 @@ List of IPs that must be reachable via port 80 for Letsencrypt
 104.78.93.111
 
 161.35.60.200
+
+23.178.112.102
