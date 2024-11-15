@@ -1,7 +1,12 @@
 # LetsEncryptIPs
+![Version](https://img.shields.io/github/v/tag/n3roGit/LetsEncryptIPs?label=Version&cache_seconds=0)
+![Branch](https://img.shields.io/badge/dynamic/json?color=blue&label=Branch&query=$.default_branch&url=https://api.github.com/repos/n3roGit/LetsEncryptIPs)
+![License](https://img.shields.io/github/license/n3roGit/LetsEncryptIPs)
+![Last Commit](https://img.shields.io/github/last-commit/n3roGit/LetsEncryptIPs)
+![Issues](https://img.shields.io/github/issues/n3roGit/LetsEncryptIPs)
+![Pull Requests](https://img.shields.io/github/issues-pr/n3roGit/LetsEncryptIPs)
+
 List of IPs that must be reachable via port 80 for Letsencrypt
-
-
 
 172.65.32.248
 
